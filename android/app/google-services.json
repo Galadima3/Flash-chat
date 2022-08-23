@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "817432477193",
+    "project_id": "mylez-flutter-flash-chat",
+    "storage_bucket": "mylez-flutter-flash-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817432477193:android:d231bd1b9d2f001e3242d8",
+        "android_client_info": {
+          "package_name": "com.example.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817432477193-hjivoemj4t0m8c1ob4l5lusju1e0vtn3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfqZQri4wvCXnMJkSrWEfidaOr-u16raA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817432477193-hjivoemj4t0m8c1ob4l5lusju1e0vtn3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
